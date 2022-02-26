@@ -1,7 +1,10 @@
 {
   "name": "jiisiPwa",
   "integrations": {
-    "cordova": {}
+    "cordova": {
+      "enabled": false
+    },
+    "capacitor": {}
   },
   "type": "angular"
 }
